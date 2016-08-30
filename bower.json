@@ -1,0 +1,9 @@
+{
+  "name": "ngInfiniteScroll",
+  "version": "*.*",
+  "license": "MIT",
+  "main": "./src/infinite-scroll.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
